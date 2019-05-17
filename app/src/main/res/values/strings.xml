@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">FCMTest</string>
+    <string name="default_notification_channel_id">com.hw0k.fcmtest</string>
 </resources>
